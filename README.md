@@ -1,7 +1,7 @@
 # F1_standings
 
-```
-| Driver               | Nationality   | Car                          | PTS |
+
+'''| Driver               | Nationality   | Car                          | PTS |
 |:---------------------|:--------------|:-----------------------------|----:|
 | Max Verstappen VER   | NED           | Red Bull Racing Honda RBPT   | 575 |
 | Sergio Perez PER     | MEX           | Red Bull Racing Honda RBPT   | 285 |
@@ -24,5 +24,5 @@
 | Kevin Magnussen MAG  | DEN           | Haas Ferrari                 | 3   |
 | Liam Lawson LAW      | NZL           | AlphaTauri Honda RBPT        | 2   |
 | Logan Sargeant SAR   | USA           | Williams Mercedes            | 1   |
-| Nyck De Vries DEV    | NED           | AlphaTauri Honda RBPT        | 0   |
-'''
+| Nyck De Vries DEV    | NED           | AlphaTauri Honda RBPT        | 0   |'''
+
