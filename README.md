@@ -1,4 +1,5 @@
 # F1_standings
+
 | Driver               | Nationality   | Car                          | PTS |
 |:---------------------|:--------------|:-----------------------------|---:|
 | Max Verstappen VER   | NED           | Red Bull Racing Honda RBPT   | 575 |
