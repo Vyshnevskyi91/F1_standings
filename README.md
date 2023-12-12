@@ -1,6 +1,4 @@
 # F1_standings
-
-```markdown
 | Driver               | Nationality   | Car                          | PTS |
 |:---------------------|:--------------|:-----------------------------|---:|
 | Max Verstappen VER   | NED           | Red Bull Racing Honda RBPT   | 575 |
@@ -25,5 +23,5 @@
 | Liam Lawson LAW      | NZL           | AlphaTauri Honda RBPT        |   2 |
 | Logan Sargeant SAR   | USA           | Williams Mercedes            |   1 |
 | Nyck De Vries DEV    | NED           | AlphaTauri Honda RBPT        |   0 |
-'''
+
 
