@@ -1,4 +1,4 @@
-# F1_standings
+# Data Mining F1 standings from website
 
 | Driver               | Nationality   | Car                          | PTS |
 |:---------------------|:--------------|:-----------------------------|---:|
@@ -24,5 +24,6 @@
 | Liam Lawson LAW      | NZL           | AlphaTauri Honda RBPT        |   2 |
 | Logan Sargeant SAR   | USA           | Williams Mercedes            |   1 |
 | Nyck De Vries DEV    | NED           | AlphaTauri Honda RBPT        |   0 |
-
+## Standings visualization
+![](F1.png)
 
