@@ -1,5 +1,4 @@
 # F1_standings
-```python
 import pandas as pd
 
 data = {
