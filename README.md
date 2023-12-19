@@ -1,4 +1,5 @@
 # Data Mining F1 standings from website
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwydDh2bnM2bjg2bnA1OXdycW94MzBjbHlwaTVjemQ0cnViOWhwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8z7lSA1Cmh0aY/giphy.gif)
 
 | Driver               | Nationality   | Car                          | PTS |
 |:---------------------|:--------------|:-----------------------------|---:|
